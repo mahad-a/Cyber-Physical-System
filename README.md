@@ -1,7 +1,5 @@
 # Emulation of a Simplified Cyber-Physical System (CPS) Using Software Processes and Message Passing
 
-# Developed by Mahad Ahmed
-
 The assignment is to practice some process management related techniques, including process creation, sending/handling of signals, and process communication and synchronization via message passing using the FIFO client/server model.
 
 # Usage
@@ -19,3 +17,6 @@ gcc medical_cps.c -o cps
 6. Run the CPS program in its own terminal by inputting:
 ./cps
 7. The final product will be outputted on screen. DISCLAIMER once CPS program has stopped ending, it may have no command line appear afterwards but the program has completely ended. A simple enter can bring the command line back or you can continue as normal. Usually in a infinite loop, even if you were to press enter, it will stay within the program and the not show the command line.
+
+
+### Developed by Mahad Ahmed
