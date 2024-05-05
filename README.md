@@ -1,6 +1,6 @@
-# SYSC 4001 Assignment 1 README
+# Emulation of a Simplified Cyber-Physical System (CPS) Using Software Processes and Message Passing
 
-# Mahad Ahmed 101220427
+# Developed by Mahad Ahmed
 
 The assignment is to practice some process management related techniques, including process creation, sending/handling of signals, and process communication and synchronization via message passing using the FIFO client/server model.
 
